@@ -640,8 +640,10 @@ public class PetTest {
 
 * Implement unit tests with maven wrapper for only `customer-service` microservice locally on `Dev Server`. Execute the following command under the `spring-petclinic-customers-service folder`.
 
-``` bash
+``
 ../mvnw clean test
+
+
 ```
 
 * Commit the change, then push the changes to the remote repo.
